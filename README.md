@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamojha98
+- 👋 Hi, I’m Shubham Kr Ojha
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me shubhamojha.ojha098@gmail.com
