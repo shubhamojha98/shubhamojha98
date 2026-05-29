@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 👋 I'm **Shubham Kr Ojha** — a passionate Software Developer from India 🇮🇳
+- 👋 I'm **Shubham Kumar Ojha** — a passionate Software Developer from India 🇮🇳
 - 🌱 Currently leveling up in **Full Stack Development**
 - 💡 I love turning ideas into real-world applications
 - 🌐 Check out my portfolio: [portfolio-two-wine-40.vercel.app](https://portfolio-two-wine-40.vercel.app/)
