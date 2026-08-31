@@ -10,7 +10,7 @@
 - 👋 I'm **Shubham Kumar Ojha** — a passionate Software Developer from India 🇮🇳
 - 🌱 Currently leveling up in **Full Stack Development**
 - 💡 I love turning ideas into real-world applications
-- 🌐 Check out my portfolio: [portfolio-two-wine-40.vercel.app](https://portfolio-two-wine-40.vercel.app/)
+- 🌐 Check out my portfolio: [portfolio-rho-ruddy-42.vercel.app](https://portfolio-rho-ruddy-42.vercel.app/)
 - 📫 Reach me at **shubhamojha.ojha098@gmail.com**
 - ⚡ Fun fact: I'm always curious and always coding!
 
